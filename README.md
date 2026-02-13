@@ -1,6 +1,7 @@
-# 💫 About Me:
- Advanced student of Information Systems Engineering (UTN - FRRO) 
-
+# About Me:
+ Advanced student of Information Systems Engineering (UTN - FRRO) with training in web development and databases. I work with technologies such as HTML, CSS, TypeScript, React, Python, C, and MySQL, applied in practical assignments and academic projects.
+ Advanced English (C1 – Cambridge)
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tadeo-rufine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tadeorufine02@gmail.com) 
